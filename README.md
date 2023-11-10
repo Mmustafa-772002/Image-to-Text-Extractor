@@ -39,14 +39,4 @@ Welcome to the PDF Text Extractor web application! This project combines the pow
 - `static/`: Static assets (CSS, JS).
 - `templates/`: HTML templates.
 
-## Support
 
-If you encounter any issues or have questions, please open an issue in the [GitHub repository](https://github.com/yourusername/pdf-text-extractor-web).
-
-## Contributing
-
-We welcome contributions! Feel free to submit pull requests for improvements or new features.
-
-## License
-
-This PDF Text Extractor Web App is licensed under the [MIT License](LICENSE.md).
